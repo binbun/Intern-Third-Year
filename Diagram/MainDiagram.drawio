@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-01T04:10:38.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="29wVAgD05JHaSPkdzILV" version="14.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-01T04:10:56.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ldD7D1NNNOLEoDex2mpO" version="14.6.9" type="github" pages="2">
   <diagram id="Y8R3UVB2cNtYBamJNuuW" name="System Diagram">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,10 +237,10 @@
           <mxGeometry x="-280" y="730.46" width="150" height="79.54" as="geometry" />
         </mxCell>
         <mxCell id="a93Q3gz6tKEj2bYpAAod-59" value="Thực hiện bài thi" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="a93Q3gz6tKEj2bYpAAod-1">
-          <mxGeometry x="80" y="730.46" width="150" height="79.54" as="geometry" />
+          <mxGeometry x="80" y="730.46" width="160" height="79.54" as="geometry" />
         </mxCell>
         <mxCell id="a93Q3gz6tKEj2bYpAAod-60" value="Xem danh sách câu hỏi" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="a93Q3gz6tKEj2bYpAAod-1">
-          <mxGeometry x="-96" y="600" width="161" height="90" as="geometry" />
+          <mxGeometry x="-96" y="600" width="176" height="90" as="geometry" />
         </mxCell>
         <mxCell id="a93Q3gz6tKEj2bYpAAod-61" value="Chấm điểm" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" vertex="1" parent="a93Q3gz6tKEj2bYpAAod-1">
           <mxGeometry x="-280" y="730.46" width="150" height="79.54" as="geometry" />
